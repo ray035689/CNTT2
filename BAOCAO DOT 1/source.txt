@@ -1,0 +1,5 @@
+Tesseract Guide - 15.06.2023 - Konfuzio.com - Jan Schäfer
+A Guide to Python Tesseract - 15.12.2023 - builtin.com - Chinmay Bhalerao
+Tesseract OCR: What Is It, and Why Would You Choose It in 2024? - 09.02.2023 - klippa.com - Klippa
+How Data Extraction Works with Tesseract OCR, OpenCV, and Python for Invoices - 18.12.2022 - affinda.com - Affinda
+How to use Pytesseract, openCV, and Tesseract for OCR in Python? - 09.04.2024 - sdlccorp.com - kiran
